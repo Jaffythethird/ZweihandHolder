@@ -1,0 +1,5 @@
+01:Dwarf
+21:Elf
+41:Gnome
+61:Halfling
+81:Ogre
